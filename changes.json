@@ -1,9 +1,0 @@
-{
-
-   "COMANDOS RENOMEADOS": [
-     "Renomeado os comandos` ignoreChannel` & `ignoreRole` para` ignoreChannels` & `ignoreRoles`, respectivamente.",
-     "Renomeado o comando` votingChannel` para `votingChannels`.",
-     "Renomeado o comando` resetModLogs` para `resetModerationLogs`.",
-     "Renomeado o comando` searchServer` para `searchServers`. Também removeu seu alias` servers` e adicionou o alias `searchGuilds`."
-   ]
-}
